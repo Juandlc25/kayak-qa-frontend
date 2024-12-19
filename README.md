@@ -1,4 +1,4 @@
-# Framework to Automate E2E Tests
+# Kayak qa frontend
 
 This project was developed using the next technologies:
 
@@ -18,3 +18,4 @@ Then of install all requirements you can execute the automated tests with the ne
 
 `behave --no-capture --format plain --tags={behave_tag} -Dcountry={coutry} -Dtestrail={testrail_report} -Ddriver={enviroment_to_run_tests}`
 |
+
