@@ -1,0 +1,18 @@
+# Archivos y carpetas de entorno virtual de Python
+.venv/
+__pycache__/
+
+# Configuración de IDEs (por ejemplo, PyCharm o VSCode)
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log y caché
+*.log
+
+# Archivos de Python compilados
+*.pyc
+*.pyo
